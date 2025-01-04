@@ -1,1 +1,10 @@
-
+requests
+beautifulsoup4
+pandas
+gradio
+torch
+transformers
+scikit-learn
+numpy
+datetime
+logging
